@@ -1,6 +1,6 @@
 @sephdevs
 
-🎮 Game Dev | Producer | Data & Strategy
+🎮 Game Dev | Production | Data & Strategy
 - Crafting gaming experiences ✨
 - Tech wizardry for optimized gameplay 🚀
 - Tools and utilities to streamline development 🔧
